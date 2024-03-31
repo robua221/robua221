@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robin Alexander</h1>
 <h3 align="center">A fullstack developer and passionate about web3 and blockchain</h3>
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width="400" align="right"/>
+
 - 🌱 I’m currently learning **Web3**
 
 - 💬 Ask me about **React,Javascript, Blockchain**
