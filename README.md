@@ -2,13 +2,14 @@
 <h3 align="center">A fullstack developer and passionate about web3 and blockchain</h3>
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width="400" align="right"/>
 
-- 🌱 I’m currently learning **Web3**
-
-- 💬 Ask me about **React,Javascript, Blockchain**
-
-- 📫 How to reach me **robinalexanderca23@gmail.com**
-
-- ⚡ Fun fact **I love gaming**
+- 👨‍💻 Full-Stack Developer (MERN) delivering scalable, production-ready applications  
+- 🧠 Frontend: **React, JavaScript (ES6+), HTML5, CSS3, responsive UI**  
+- 🔧 Backend: **Node.js, Express.js, RESTful APIs, JWT authentication**  
+- 🗄️ Database: **MongoDB, schema design, CRUD operations**  
+- 🌐 Integrations: **Third-party APIs, Web3/blockchain fundamentals**  
+- ⚙️ DevOps: **Git, environment configs, deployment workflows**  
+- 🚀 Startup experience shipping **MVP → production** with end-to-end ownership  
+- 📫 Contact: **robinalexanderca23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
